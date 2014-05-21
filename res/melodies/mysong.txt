@@ -1,0 +1,13 @@
+Ode to a Bear
+Mrs Bear
+10
+1 G 5 NATURAL false
+1 C 5 NATURAL false 
+0.5 D 5 NATURAL true
+0.2 E 5  NATURAL false
+0.2 F 5 NATURAL false
+0.8 G 5 NATURAL true 
+0.8 G 5 NATURAL true
+0.8 C 5 NATURAL false
+1 D 5 NATURAL false
+1.5 C 5 NATURAL false 
